@@ -13,8 +13,8 @@ This repository contains materials and assignments from the **Computational Inte
   - Implementation of CNNs and MLPs for various tasks.
   - Practical applications of linear and logistic regression.
   
-- **Theory Assignment**: 
-  - In-depth exploration of fuzzy logic concepts and applications.
+- **Theory Assignments**: 
+  - In-depth exploration of fuzzy logic and neural network concepts and applications.
 
 ## Objectives
 
